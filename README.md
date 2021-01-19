@@ -9,13 +9,9 @@
 <img alt="Gmail" src="https://img.shields.io/badge/-Email-282A36?style=for-the-badge&logo=Gmail&logoColor=white)" />    
 </a>
 
----
-<br/>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PabloRSantos&theme=radical&layout=compact)
 ![Pablo github stats](https://github-readme-stats.vercel.app/api?username=PabloRSantos&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
-
----
 
 ### :computer: Some of the technology that I use:
 
