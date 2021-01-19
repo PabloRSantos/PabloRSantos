@@ -11,7 +11,7 @@
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PabloRSantos&theme=radical&layout=compact)
-![Pablo github stats](https://github-readme-stats.vercel.app/api?username=PabloRSantos&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
+![Pablo github stats](https://github-readme-stats.vercel.app/api?username=PabloRSantos&show_icons=true&theme=radical&include_all_commits=true)
 
 ### :computer: Some of the technology that I use:
 
